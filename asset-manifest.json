@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/replicant-registration/static/css/main.3903d9d2.chunk.css",
+    "main.js": "/replicant-registration/static/js/main.de38cd48.chunk.js",
+    "main.js.map": "/replicant-registration/static/js/main.de38cd48.chunk.js.map",
+    "runtime-main.js": "/replicant-registration/static/js/runtime-main.71556d7f.js",
+    "runtime-main.js.map": "/replicant-registration/static/js/runtime-main.71556d7f.js.map",
+    "static/css/2.400ad86f.chunk.css": "/replicant-registration/static/css/2.400ad86f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js": "/replicant-registration/static/js/2.a6c4d654.chunk.js",
+    "static/js/2.a6c4d654.chunk.js.map": "/replicant-registration/static/js/2.a6c4d654.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/replicant-registration/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/replicant-registration/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/replicant-registration/index.html",
+    "static/css/2.400ad86f.chunk.css.map": "/replicant-registration/static/css/2.400ad86f.chunk.css.map",
+    "static/css/main.3903d9d2.chunk.css.map": "/replicant-registration/static/css/main.3903d9d2.chunk.css.map",
+    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/replicant-registration/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/replicant-registration/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71556d7f.js",
+    "static/css/2.400ad86f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js",
+    "static/css/main.3903d9d2.chunk.css",
+    "static/js/main.de38cd48.chunk.js"
+  ]
+}
